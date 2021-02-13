@@ -3,3 +3,7 @@
 	ios_base::sync_with_stdio(false);
 	endl->'\n' 속도차이 심함
 	
+	//while 종료조건 명시되어 있지 않을때
+	End of File EOF 값을 리턴해야함
+	while(cin >> a >> b) 
+	while(scanf("%d %d", &a, &b) != EOF)
