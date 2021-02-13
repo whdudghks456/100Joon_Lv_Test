@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int for_1_2739() {
 	int a;
 	cin >> a;
 	for (int i = 1; i < 10; i++) {

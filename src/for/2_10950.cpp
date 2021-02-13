@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int for_2_10950() {
 	int a, b, c;
 	cin >> a;
 	for (int i = 0; i < a; i++) {

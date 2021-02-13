@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int for_3_8393() {
 	int a, b;
 	b = 0;
 	cin >> a;
