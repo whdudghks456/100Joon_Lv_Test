@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int one_dimensional_array_6_8958() {
 	int a, count, sum;
 	count = 0;
 	cin >> a;
